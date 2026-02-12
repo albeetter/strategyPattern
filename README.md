@@ -18,7 +18,8 @@ B.  AttackStrategy
      1.  CastSpell
      2.  ShootArrow
      3.  SwingSword  
-
+	 
+### UML Diagram
 
 Refactor the existing codes and provide the UML Diagram:
 
@@ -52,7 +53,5 @@ Refactor the existing codes and provide the UML Diagram:
         }
     }
 }```
-
-## UML Diagram
 
 
