@@ -19,7 +19,8 @@ B.  AttackStrategy
      2.  ShootArrow
      3.  SwingSword  
 	 
-### UML Diagram
+# UML Diagram
+<img src="https://github.com/albeetter/strategyPattern/blob/master/StrategyDiagram.png" alt="classdiagram">
 
 Refactor the existing codes and provide the UML Diagram:
 
